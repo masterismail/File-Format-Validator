@@ -24,7 +24,7 @@ The File Format Validator is a command-line utility developed to validate CSV fi
 4. Prepare your input CSV file. The file should follow the specified format, with the column names in the correct order.
 
 5. Run the File Format Validator:
-`python file_format_validator.py <path_to_your_csv_file>`
+`python FileFormatValidator.py <path_to_your_csv_file>`
 
 
 6. The utility will validate the file and display the validation results, including any errors or inconsistencies found.
